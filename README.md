@@ -43,11 +43,11 @@ across time zones and async communication.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/simphiwe-mkwanazi-dev">💼 LinkedIn</a> ・
-<a href="mail to:simphiwe.om1@gmail.com">📧 Email</a>
+<a href="mailto:simphiwe.om1@gmail.com">📧 Email</a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=simphiwe-mkwanazi-dev&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simphiwe-mkwanazi-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
