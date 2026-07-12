@@ -42,8 +42,9 @@ across time zones and async communication.
 ### 🤝 Let's connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/simphiwe-mkwanazi-dev">💼 LinkedIn</a> ・
-<a href="mailto:simphiwe.om1@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/simphiwe-mkwanazi-520b65420">💼 LinkedIn</a> ·
+  <a href="https://x.com/simphiwe_mkwanazi_dev">🐦 X (Twitter)</a> ·
+  <a href="mailto:simphiwe.om1@gmail.com">📧 Email</a>
 </p>
 
 ---
